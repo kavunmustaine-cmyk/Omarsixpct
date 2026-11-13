@@ -1,0 +1,11 @@
+# Dependencies & build caches
+node_modules/
+.cache/
+dist/
+build/
+__pycache__/
+*.pyc
+.DS_Store
+
+# Too large for GitHub (>100 MB) — keep backed up elsewhere
+raw footage/IMG_0086.MOV

@@ -1,0 +1,1226 @@
+[
+ {
+  "a": 7.4,
+  "b": 10.68,
+  "words": [
+   {
+    "word": " Imagine",
+    "start": 7.08,
+    "end": 7.64,
+    "probability": 0.8411619067192078,
+    "t": "Imagine",
+    "e_src": 7.64
+   },
+   {
+    "word": " your",
+    "start": 7.64,
+    "end": 7.94,
+    "probability": 0.9803541302680969,
+    "t": "your",
+    "e_src": 7.94
+   },
+   {
+    "word": " life",
+    "start": 7.94,
+    "end": 8.16,
+    "probability": 0.9817215204238892,
+    "t": "life",
+    "e_src": 8.16
+   },
+   {
+    "word": "as",
+    "start": 8.16,
+    "end": 8.3,
+    "probability": 0.9192406535148621,
+    "t": "as",
+    "e_src": 8.3
+   },
+   {
+    "word": " a",
+    "start": 8.3,
+    "end": 8.4,
+    "probability": 0.9867156147956848,
+    "t": "a",
+    "e_src": 8.4
+   },
+   {
+    "word": " library,",
+    "start": 8.4,
+    "end": 8.66,
+    "probability": 0.9946895837783813,
+    "t": "library,",
+    "e_src": 8.66
+   },
+   {
+    "word": " but",
+    "start": 8.94,
+    "end": 8.96,
+    "probability": 0.987484872341156,
+    "t": "but",
+    "e_src": 8.96
+   },
+   {
+    "word": " every",
+    "start": 8.96,
+    "end": 9.2,
+    "probability": 0.9829909801483154,
+    "t": "every",
+    "e_src": 9.2
+   },
+   {
+    "word": " book",
+    "start": 9.2,
+    "end": 9.5,
+    "probability": 0.9955356121063232,
+    "t": "book",
+    "e_src": 9.5
+   },
+   {
+    "word": " is",
+    "start": 9.5,
+    "end": 9.7,
+    "probability": 0.9931105375289917,
+    "t": "is",
+    "e_src": 9.7
+   },
+   {
+    "word": " scattered",
+    "start": 9.7,
+    "end": 10.02,
+    "probability": 0.9680389165878296,
+    "t": "scattered",
+    "e_src": 10.02
+   },
+   {
+    "word": " around.",
+    "start": 10.02,
+    "end": 10.46,
+    "probability": 0.9942747950553894,
+    "t": "around.",
+    "e_src": 10.46
+   }
+  ],
+  "take": 0,
+  "out": 0.0
+ },
+ {
+  "a": 38.96,
+  "b": 45.16,
+  "words": [
+   {
+    "word": " Each",
+    "start": 38.48,
+    "end": 39.12,
+    "probability": 0.92317134141922,
+    "t": "Each",
+    "e_src": 39.12
+   },
+   {
+    "word": " book",
+    "start": 39.12,
+    "end": 39.42,
+    "probability": 0.9901858568191528,
+    "t": "book",
+    "e_src": 39.42
+   },
+   {
+    "word": " represents",
+    "start": 39.42,
+    "end": 39.86,
+    "probability": 0.9890685677528381,
+    "t": "represents",
+    "e_src": 39.86
+   },
+   {
+    "word": " a",
+    "start": 39.86,
+    "end": 40.18,
+    "probability": 0.9935057163238525,
+    "t": "a",
+    "e_src": 40.18
+   },
+   {
+    "word": " different",
+    "start": 40.18,
+    "end": 40.32,
+    "probability": 0.9978309273719788,
+    "t": "different",
+    "e_src": 40.32
+   },
+   {
+    "word": " part",
+    "start": 40.32,
+    "end": 40.68,
+    "probability": 0.9960293769836426,
+    "t": "part",
+    "e_src": 40.68
+   },
+   {
+    "word": " of",
+    "start": 40.68,
+    "end": 40.86,
+    "probability": 0.9982555508613586,
+    "t": "of",
+    "e_src": 40.86
+   },
+   {
+    "word": " your",
+    "start": 40.86,
+    "end": 41.0,
+    "probability": 0.9958471655845642,
+    "t": "your",
+    "e_src": 41.0
+   },
+   {
+    "word": " life.",
+    "start": 41.0,
+    "end": 41.18,
+    "probability": 0.9847978949546814,
+    "t": "life.",
+    "e_src": 41.18
+   },
+   {
+    "word": " Your",
+    "start": 41.46,
+    "end": 41.46,
+    "probability": 0.9684789180755615,
+    "t": "Your",
+    "e_src": 41.46
+   },
+   {
+    "word": " relationships,",
+    "start": 41.46,
+    "end": 41.98,
+    "probability": 0.9880746006965637,
+    "t": "relationships,",
+    "e_src": 41.98
+   },
+   {
+    "word": " your",
+    "start": 42.56,
+    "end": 42.58,
+    "probability": 0.9851580262184143,
+    "t": "your",
+    "e_src": 42.58
+   },
+   {
+    "word": " mistakes,",
+    "start": 42.58,
+    "end": 42.96,
+    "probability": 0.9969394207000732,
+    "t": "mistakes,",
+    "e_src": 42.96
+   },
+   {
+    "word": " your",
+    "start": 43.4,
+    "end": 43.46,
+    "probability": 0.950035810470581,
+    "t": "your",
+    "e_src": 43.46
+   },
+   {
+    "word": " dreams",
+    "start": 43.46,
+    "end": 43.84,
+    "probability": 0.9957337975502014,
+    "t": "dreams",
+    "e_src": 43.84
+   },
+   {
+    "word": " and",
+    "start": 43.84,
+    "end": 44.12,
+    "probability": 0.9024748802185059,
+    "t": "and",
+    "e_src": 44.12
+   },
+   {
+    "word": " your",
+    "start": 44.12,
+    "end": 44.3,
+    "probability": 0.9873220324516296,
+    "t": "your",
+    "e_src": 44.3
+   },
+   {
+    "word": " experiences.",
+    "start": 44.3,
+    "end": 44.82,
+    "probability": 0.9974740147590637,
+    "t": "experiences.",
+    "e_src": 44.82
+   }
+  ],
+  "take": 1,
+  "out": 3.2799999999999994
+ },
+ {
+  "a": 47.56,
+  "b": 51.0,
+  "words": [
+   {
+    "word": " And",
+    "start": 47.7,
+    "end": 47.74,
+    "probability": 0.8965573906898499,
+    "t": "And",
+    "e_src": 47.74
+   },
+   {
+    "word": " your",
+    "start": 47.74,
+    "end": 48.02,
+    "probability": 0.9789754748344421,
+    "t": "your",
+    "e_src": 48.02
+   },
+   {
+    "word": " job",
+    "start": 48.02,
+    "end": 48.34,
+    "probability": 0.9983658194541931,
+    "t": "job",
+    "e_src": 48.34
+   },
+   {
+    "word": " is",
+    "start": 48.34,
+    "end": 48.68,
+    "probability": 0.9925587177276611,
+    "t": "is",
+    "e_src": 48.68
+   },
+   {
+    "word": " to",
+    "start": 48.68,
+    "end": 48.82,
+    "probability": 0.9955669045448303,
+    "t": "to",
+    "e_src": 48.82
+   },
+   {
+    "word": " pick",
+    "start": 48.82,
+    "end": 48.98,
+    "probability": 0.9993191957473755,
+    "t": "pick",
+    "e_src": 48.98
+   },
+   {
+    "word": " them",
+    "start": 48.98,
+    "end": 49.3,
+    "probability": 0.9920240640640259,
+    "t": "them",
+    "e_src": 49.3
+   },
+   {
+    "word": " up",
+    "start": 49.3,
+    "end": 49.54,
+    "probability": 0.9959217309951782,
+    "t": "up",
+    "e_src": 49.54
+   },
+   {
+    "word": " one",
+    "start": 49.54,
+    "end": 50.04,
+    "probability": 0.940852701663971,
+    "t": "one",
+    "e_src": 50.04
+   },
+   {
+    "word": " by",
+    "start": 50.04,
+    "end": 50.44,
+    "probability": 0.9739900231361389,
+    "t": "by",
+    "e_src": 50.44
+   },
+   {
+    "word": " one.",
+    "start": 50.44,
+    "end": 50.82,
+    "probability": 0.9991550445556641,
+    "t": "one.",
+    "e_src": 50.82
+   }
+  ],
+  "take": 2,
+  "out": 9.479999999999995
+ },
+ {
+  "a": 58.56,
+  "b": 64.12,
+  "words": [
+   {
+    "word": " But",
+    "start": 58.32,
+    "end": 58.72,
+    "probability": 0.7961490750312805,
+    "t": "But",
+    "e_src": 58.72
+   },
+   {
+    "word": " here's",
+    "start": 58.72,
+    "end": 58.98,
+    "probability": 0.8986751139163971,
+    "t": "here's",
+    "e_src": 58.98
+   },
+   {
+    "word": " the",
+    "start": 58.98,
+    "end": 59.06,
+    "probability": 0.9856289029121399,
+    "t": "the",
+    "e_src": 59.06
+   },
+   {
+    "word": " thing,",
+    "start": 59.06,
+    "end": 59.24,
+    "probability": 0.9952450394630432,
+    "t": "thing,",
+    "e_src": 59.24
+   },
+   {
+    "word": " you",
+    "start": 59.48,
+    "end": 59.58,
+    "probability": 0.6716642379760742,
+    "t": "you",
+    "e_src": 59.58
+   },
+   {
+    "word": " can't",
+    "start": 59.58,
+    "end": 59.76,
+    "probability": 0.9864745140075684,
+    "t": "can't",
+    "e_src": 59.76
+   },
+   {
+    "word": " pick",
+    "start": 59.76,
+    "end": 59.92,
+    "probability": 0.9607763886451721,
+    "t": "pick",
+    "e_src": 59.92
+   },
+   {
+    "word": " them",
+    "start": 59.92,
+    "end": 60.08,
+    "probability": 0.9926324486732483,
+    "t": "them",
+    "e_src": 60.08
+   },
+   {
+    "word": " all",
+    "start": 60.08,
+    "end": 60.2,
+    "probability": 0.8219252824783325,
+    "t": "all",
+    "e_src": 60.2
+   },
+   {
+    "word": " up",
+    "start": 60.2,
+    "end": 60.4,
+    "probability": 0.9806216359138489,
+    "t": "up",
+    "e_src": 60.4
+   },
+   {
+    "word": " at",
+    "start": 60.4,
+    "end": 60.5,
+    "probability": 0.9785003066062927,
+    "t": "at",
+    "e_src": 60.5
+   },
+   {
+    "word": " once.",
+    "start": 60.5,
+    "end": 60.7,
+    "probability": 0.9990955591201782,
+    "t": "once.",
+    "e_src": 60.7
+   },
+   {
+    "word": " You",
+    "start": 61.22,
+    "end": 61.32,
+    "probability": 0.9727986454963684,
+    "t": "You",
+    "e_src": 61.32
+   },
+   {
+    "word": " have",
+    "start": 61.32,
+    "end": 61.44,
+    "probability": 0.9904631972312927,
+    "t": "have",
+    "e_src": 61.44
+   },
+   {
+    "word": " to",
+    "start": 61.44,
+    "end": 61.6,
+    "probability": 0.9984185695648193,
+    "t": "to",
+    "e_src": 61.6
+   },
+   {
+    "word": " read",
+    "start": 61.6,
+    "end": 61.74,
+    "probability": 0.9130098223686218,
+    "t": "read",
+    "e_src": 61.74
+   },
+   {
+    "word": " each",
+    "start": 61.74,
+    "end": 62.14,
+    "probability": 0.9879740476608276,
+    "t": "each",
+    "e_src": 62.14
+   },
+   {
+    "word": " and",
+    "start": 62.14,
+    "end": 62.22,
+    "probability": 0.8703276515007019,
+    "t": "and",
+    "e_src": 62.22
+   },
+   {
+    "word": " single",
+    "start": 62.22,
+    "end": 62.5,
+    "probability": 0.9611025452613831,
+    "t": "single",
+    "e_src": 62.5
+   },
+   {
+    "word": " one",
+    "start": 62.5,
+    "end": 62.76,
+    "probability": 0.961119532585144,
+    "t": "one",
+    "e_src": 62.76
+   },
+   {
+    "word": " of",
+    "start": 62.76,
+    "end": 62.86,
+    "probability": 0.982047438621521,
+    "t": "of",
+    "e_src": 62.86
+   },
+   {
+    "word": " them",
+    "start": 62.86,
+    "end": 63.04,
+    "probability": 0.9974023103713989,
+    "t": "them",
+    "e_src": 63.04
+   },
+   {
+    "word": " before",
+    "start": 63.04,
+    "end": 63.26,
+    "probability": 0.9702628254890442,
+    "t": "before",
+    "e_src": 63.26
+   },
+   {
+    "word": " you",
+    "start": 63.26,
+    "end": 63.38,
+    "probability": 0.9974634647369385,
+    "t": "you",
+    "e_src": 63.38
+   },
+   {
+    "word": " put",
+    "start": 63.38,
+    "end": 63.52,
+    "probability": 0.9771170020103455,
+    "t": "put",
+    "e_src": 63.52
+   },
+   {
+    "word": " them",
+    "start": 63.52,
+    "end": 63.72,
+    "probability": 0.9981196522712708,
+    "t": "them",
+    "e_src": 63.72
+   },
+   {
+    "word": " back.",
+    "start": 63.72,
+    "end": 63.94,
+    "probability": 0.9991779923439026,
+    "t": "back.",
+    "e_src": 63.94
+   }
+  ],
+  "take": 3,
+  "out": 12.919999999999993
+ },
+ {
+  "a": 143.92,
+  "b": 145.32,
+  "words": [
+   {
+    "word": " You",
+    "start": 143.62,
+    "end": 144.04,
+    "probability": 0.9848856329917908,
+    "t": "You",
+    "e_src": 144.04
+   },
+   {
+    "word": " have",
+    "start": 144.04,
+    "end": 144.18,
+    "probability": 0.9978445768356323,
+    "t": "have",
+    "e_src": 144.18
+   },
+   {
+    "word": " to",
+    "start": 144.18,
+    "end": 144.3,
+    "probability": 0.998997151851654,
+    "t": "to",
+    "e_src": 144.3
+   },
+   {
+    "word": " understand",
+    "start": 144.3,
+    "end": 144.64,
+    "probability": 0.9931095838546753,
+    "t": "understand",
+    "e_src": 144.64
+   },
+   {
+    "word": " what",
+    "start": 144.64,
+    "end": 144.84,
+    "probability": 0.9971108436584473,
+    "t": "what",
+    "e_src": 144.84
+   },
+   {
+    "word": " happened.",
+    "start": 144.84,
+    "end": 145.16,
+    "probability": 0.991887629032135,
+    "t": "happened.",
+    "e_src": 145.16
+   }
+  ],
+  "take": 4,
+  "out": 18.479999999999997
+ },
+ {
+  "a": 122.92,
+  "b": 125.92,
+  "words": [
+   {
+    "word": " You",
+    "start": 122.92,
+    "end": 123.06,
+    "probability": 0.9640839099884033,
+    "t": "You",
+    "e_src": 123.06
+   },
+   {
+    "word": " have",
+    "start": 123.06,
+    "end": 123.16,
+    "probability": 0.9907042384147644,
+    "t": "have",
+    "e_src": 123.16
+   },
+   {
+    "word": " to",
+    "start": 123.16,
+    "end": 123.28,
+    "probability": 0.9985111355781555,
+    "t": "to",
+    "e_src": 123.28
+   },
+   {
+    "word": " learn",
+    "start": 123.28,
+    "end": 123.44,
+    "probability": 0.9469020366668701,
+    "t": "learn",
+    "e_src": 123.44
+   },
+   {
+    "word": " from",
+    "start": 123.44,
+    "end": 123.68,
+    "probability": 0.9934839606285095,
+    "t": "from",
+    "e_src": 123.68
+   },
+   {
+    "word": " it",
+    "start": 123.68,
+    "end": 123.86,
+    "probability": 0.981806755065918,
+    "t": "it",
+    "e_src": 123.86
+   },
+   {
+    "word": " and",
+    "start": 123.86,
+    "end": 124.46,
+    "probability": 0.563895046710968,
+    "t": "and",
+    "e_src": 124.46
+   },
+   {
+    "word": " take",
+    "start": 124.46,
+    "end": 124.64,
+    "probability": 0.9801806807518005,
+    "t": "take",
+    "e_src": 124.64
+   },
+   {
+    "word": " something",
+    "start": 124.64,
+    "end": 124.92,
+    "probability": 0.9838130474090576,
+    "t": "something",
+    "e_src": 124.92
+   },
+   {
+    "word": " from",
+    "start": 124.92,
+    "end": 125.16,
+    "probability": 0.9938960671424866,
+    "t": "from",
+    "e_src": 125.16
+   },
+   {
+    "word": " every",
+    "start": 125.16,
+    "end": 125.44,
+    "probability": 0.9806671142578125,
+    "t": "every",
+    "e_src": 125.44
+   },
+   {
+    "word": " chapter.",
+    "start": 125.44,
+    "end": 125.7,
+    "probability": 0.9913693070411682,
+    "t": "chapter.",
+    "e_src": 125.7
+   }
+  ],
+  "take": 5,
+  "out": 19.880000000000003
+ },
+ {
+  "a": 209.72,
+  "b": 214.56,
+  "words": [
+   {
+    "word": " Some",
+    "start": 209.4,
+    "end": 209.96,
+    "probability": 0.8347237706184387,
+    "t": "Some",
+    "e_src": 209.96
+   },
+   {
+    "word": " books",
+    "start": 209.96,
+    "end": 210.24,
+    "probability": 0.9812836050987244,
+    "t": "books",
+    "e_src": 210.24
+   },
+   {
+    "word": " will",
+    "start": 210.24,
+    "end": 210.44,
+    "probability": 0.5751286149024963,
+    "t": "will",
+    "e_src": 210.44
+   },
+   {
+    "word": " be",
+    "start": 210.44,
+    "end": 210.58,
+    "probability": 0.21933822333812714,
+    "t": "be",
+    "e_src": 210.58
+   },
+   {
+    "word": " harder",
+    "start": 210.58,
+    "end": 210.72,
+    "probability": 0.7386072278022766,
+    "t": "harder",
+    "e_src": 210.72
+   },
+   {
+    "word": " to",
+    "start": 210.72,
+    "end": 210.9,
+    "probability": 0.9864104390144348,
+    "t": "to",
+    "e_src": 210.9
+   },
+   {
+    "word": " read",
+    "start": 210.9,
+    "end": 211.04,
+    "probability": 0.9988971948623657,
+    "t": "read",
+    "e_src": 211.04
+   },
+   {
+    "word": " than",
+    "start": 211.04,
+    "end": 211.2,
+    "probability": 0.9211781024932861,
+    "t": "than",
+    "e_src": 211.2
+   },
+   {
+    "word": " others.",
+    "start": 211.2,
+    "end": 211.48,
+    "probability": 0.9917138814926147,
+    "t": "others.",
+    "e_src": 211.48
+   },
+   {
+    "word": " Sometimes",
+    "start": 212.04,
+    "end": 212.18,
+    "probability": 0.9555044770240784,
+    "t": "Sometimes",
+    "e_src": 212.18
+   },
+   {
+    "word": " you'll",
+    "start": 212.18,
+    "end": 212.48,
+    "probability": 0.8647995591163635,
+    "t": "you'll",
+    "e_src": 212.48
+   },
+   {
+    "word": " even",
+    "start": 212.48,
+    "end": 212.7,
+    "probability": 0.9568093419075012,
+    "t": "even",
+    "e_src": 212.7
+   },
+   {
+    "word": " read",
+    "start": 212.7,
+    "end": 212.96,
+    "probability": 0.9815658330917358,
+    "t": "read",
+    "e_src": 212.96
+   },
+   {
+    "word": " things",
+    "start": 212.96,
+    "end": 213.24,
+    "probability": 0.9153501987457275,
+    "t": "things",
+    "e_src": 213.24
+   },
+   {
+    "word": " you'd",
+    "start": 213.24,
+    "end": 213.5,
+    "probability": 0.9480803608894348,
+    "t": "you'd",
+    "e_src": 213.5
+   },
+   {
+    "word": " rather",
+    "start": 213.5,
+    "end": 213.7,
+    "probability": 0.9975407123565674,
+    "t": "rather",
+    "e_src": 213.7
+   },
+   {
+    "word": " forget.",
+    "start": 213.7,
+    "end": 214.1,
+    "probability": 0.9937599301338196,
+    "t": "forget.",
+    "e_src": 214.1
+   }
+  ],
+  "take": 6,
+  "out": 22.880000000000003
+ },
+ {
+  "a": 218.04,
+  "b": 220.84,
+  "words": [
+   {
+    "word": " But",
+    "start": 217.74,
+    "end": 218.3,
+    "probability": 0.9604910612106323,
+    "t": "But",
+    "e_src": 218.3
+   },
+   {
+    "word": " every",
+    "start": 218.3,
+    "end": 218.74,
+    "probability": 0.824783980846405,
+    "t": "every",
+    "e_src": 218.74
+   },
+   {
+    "word": " book",
+    "start": 218.74,
+    "end": 219.08,
+    "probability": 0.9946651458740234,
+    "t": "book",
+    "e_src": 219.08
+   },
+   {
+    "word": " has",
+    "start": 219.08,
+    "end": 219.36,
+    "probability": 0.9865214824676514,
+    "t": "has",
+    "e_src": 219.36
+   },
+   {
+    "word": " something",
+    "start": 219.36,
+    "end": 219.66,
+    "probability": 0.9889300465583801,
+    "t": "something",
+    "e_src": 219.66
+   },
+   {
+    "word": " to",
+    "start": 219.66,
+    "end": 219.98,
+    "probability": 0.996254563331604,
+    "t": "to",
+    "e_src": 219.98
+   },
+   {
+    "word": " teach",
+    "start": 219.98,
+    "end": 220.22,
+    "probability": 0.999147891998291,
+    "t": "teach",
+    "e_src": 220.22
+   },
+   {
+    "word": " you.",
+    "start": 220.22,
+    "end": 220.6,
+    "probability": 0.9949237704277039,
+    "t": "you.",
+    "e_src": 220.6
+   }
+  ],
+  "take": 7,
+  "out": 27.720000000000006
+ },
+ {
+  "a": 240.04,
+  "b": 244.04,
+  "words": [
+   {
+    "word": " So",
+    "start": 239.68,
+    "end": 240.16,
+    "probability": 0.8682700395584106,
+    "t": "So",
+    "e_src": 240.16
+   },
+   {
+    "word": " don't",
+    "start": 240.16,
+    "end": 240.46,
+    "probability": 0.9787056744098663,
+    "t": "don't",
+    "e_src": 240.46
+   },
+   {
+    "word": " rush",
+    "start": 240.46,
+    "end": 240.58,
+    "probability": 0.9992920160293579,
+    "t": "rush",
+    "e_src": 240.58
+   },
+   {
+    "word": " through",
+    "start": 240.58,
+    "end": 240.86,
+    "probability": 0.9837120175361633,
+    "t": "through",
+    "e_src": 240.86
+   },
+   {
+    "word": " the",
+    "start": 240.86,
+    "end": 241.02,
+    "probability": 0.8979843854904175,
+    "t": "the",
+    "e_src": 241.02
+   },
+   {
+    "word": " library.",
+    "start": 241.02,
+    "end": 241.24,
+    "probability": 0.9918928146362305,
+    "t": "library.",
+    "e_src": 241.24
+   },
+   {
+    "word": " Read",
+    "start": 242.02,
+    "end": 242.06,
+    "probability": 0.9686362743377686,
+    "t": "Read",
+    "e_src": 242.06
+   },
+   {
+    "word": " one",
+    "start": 242.06,
+    "end": 242.26,
+    "probability": 0.7486996650695801,
+    "t": "one",
+    "e_src": 242.26
+   },
+   {
+    "word": " book",
+    "start": 242.26,
+    "end": 242.5,
+    "probability": 0.9937141537666321,
+    "t": "book",
+    "e_src": 242.5
+   },
+   {
+    "word": " and",
+    "start": 242.5,
+    "end": 242.84,
+    "probability": 0.776499330997467,
+    "t": "and",
+    "e_src": 242.84
+   },
+   {
+    "word": " move",
+    "start": 242.84,
+    "end": 243.02,
+    "probability": 0.9917246699333191,
+    "t": "move",
+    "e_src": 243.02
+   },
+   {
+    "word": " on",
+    "start": 243.02,
+    "end": 243.18,
+    "probability": 0.8653960227966309,
+    "t": "on",
+    "e_src": 243.18
+   },
+   {
+    "word": " to",
+    "start": 243.18,
+    "end": 243.32,
+    "probability": 0.9901843070983887,
+    "t": "to",
+    "e_src": 243.32
+   },
+   {
+    "word": " the",
+    "start": 243.32,
+    "end": 243.42,
+    "probability": 0.9955435395240784,
+    "t": "the",
+    "e_src": 243.42
+   },
+   {
+    "word": " next",
+    "start": 243.42,
+    "end": 243.62,
+    "probability": 0.9988208413124084,
+    "t": "next",
+    "e_src": 243.62
+   },
+   {
+    "word": " one.",
+    "start": 243.62,
+    "end": 243.88,
+    "probability": 0.9943957328796387,
+    "t": "one.",
+    "e_src": 243.88
+   }
+  ],
+  "take": 8,
+  "out": 30.520000000000017
+ },
+ {
+  "a": 260.72,
+  "b": 264.56,
+  "words": [
+   {
+    "word": " You",
+    "start": 260.46,
+    "end": 260.84,
+    "probability": 0.6562134623527527,
+    "t": "You",
+    "e_src": 260.84
+   },
+   {
+    "word": " don't",
+    "start": 260.84,
+    "end": 260.96,
+    "probability": 0.9962809085845947,
+    "t": "don't",
+    "e_src": 260.96
+   },
+   {
+    "word": " have",
+    "start": 260.96,
+    "end": 261.12,
+    "probability": 0.9937545657157898,
+    "t": "have",
+    "e_src": 261.12
+   },
+   {
+    "word": " to",
+    "start": 261.12,
+    "end": 261.26,
+    "probability": 0.9974333643913269,
+    "t": "to",
+    "e_src": 261.26
+   },
+   {
+    "word": " finish",
+    "start": 261.26,
+    "end": 261.46,
+    "probability": 0.9954454898834229,
+    "t": "finish",
+    "e_src": 261.46
+   },
+   {
+    "word": " the",
+    "start": 261.46,
+    "end": 261.64,
+    "probability": 0.9962069988250732,
+    "t": "the",
+    "e_src": 261.64
+   },
+   {
+    "word": " whole",
+    "start": 261.64,
+    "end": 261.74,
+    "probability": 0.9984740614891052,
+    "t": "whole",
+    "e_src": 261.74
+   },
+   {
+    "word": " library",
+    "start": 261.74,
+    "end": 262.04,
+    "probability": 0.9886119961738586,
+    "t": "library",
+    "e_src": 262.04
+   },
+   {
+    "word": " today.",
+    "start": 262.04,
+    "end": 262.4,
+    "probability": 0.9874879121780396,
+    "t": "today.",
+    "e_src": 262.4
+   },
+   {
+    "word": " Just",
+    "start": 262.86,
+    "end": 262.88,
+    "probability": 0.9836804866790771,
+    "t": "Just",
+    "e_src": 262.88
+   },
+   {
+    "word": " keep",
+    "start": 262.88,
+    "end": 263.04,
+    "probability": 0.9963183403015137,
+    "t": "keep",
+    "e_src": 263.04
+   },
+   {
+    "word": "reading",
+    "start": 263.04,
+    "end": 263.32,
+    "probability": 0.7566481232643127,
+    "t": "reading",
+    "e_src": 263.32
+   },
+   {
+    "word": " and",
+    "start": 263.32,
+    "end": 263.7,
+    "probability": 0.7498339414596558,
+    "t": "and",
+    "e_src": 263.7
+   },
+   {
+    "word": " let",
+    "start": 263.7,
+    "end": 263.86,
+    "probability": 0.7911677956581116,
+    "t": "let",
+    "e_src": 263.86
+   },
+   {
+    "word": " it",
+    "start": 263.86,
+    "end": 263.98,
+    "probability": 0.9903374910354614,
+    "t": "it",
+    "e_src": 263.98
+   },
+   {
+    "word": " happen.",
+    "start": 263.98,
+    "end": 264.36,
+    "probability": 0.9927061200141907,
+    "t": "happen.",
+    "e_src": 264.36
+   }
+  ],
+  "take": 9,
+  "out": 34.52000000000002
+ }
+]
